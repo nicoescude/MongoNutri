@@ -1,0 +1,25 @@
+[{
+  "_id": 1,
+  "nombre": "Juan",
+  "apellido": "Perez",
+  "edad": 24,
+  "sexo": "M",
+  "disciplina": "Si",
+  "planId": 1
+},{
+  "_id": 2,
+  "nombre": "Luis",
+  "apellido": "Gonzales",
+  "edad": 30,
+  "sexo": "M",
+  "disciplina": "Si",
+  "planId": 3
+},{
+  "_id": 3,
+  "nombre": "Vanesa",
+  "apellido": "Sur",
+  "edad": 26,
+  "sexo": "F",
+  "disciplina": "Si",
+  "planId": 2
+}]
